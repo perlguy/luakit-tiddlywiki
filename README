@@ -1,1 +1,7 @@
 tweaks to luakit rc.lua to behave like an "app" browser
+
+bin/* go wherever you like - I use ~/bin.
+
+etc/* normally go in ~/.config/luakit, but can go wherever you want.  if you
+don't use .config/luakit/, then the wrapper script will need to be updated.
+
