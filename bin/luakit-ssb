@@ -1,0 +1,3 @@
+#!/bin/ksh
+
+luakit -c ~/.config/luakit/luakit-ssb.lua "$@"
